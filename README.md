@@ -1,1 +1,1 @@
-# Dell-latitude-7480-hackintosh
+# Dell Inc. Latitude 7480 Hackintosh
