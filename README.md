@@ -4,7 +4,7 @@ This was an comissioning for a dell laptop, I just got bored and wanted to share
 
 Spoofed as a MacBookPro14,1, Current Running OS: macOS Monterey 12.0.1
 
-# Hardware
+## Hardware
 
 - DualCore Intel Core i5-7200U, 2718 MHz
 - Intel HD Graphics 620
@@ -13,7 +13,7 @@ Spoofed as a MacBookPro14,1, Current Running OS: macOS Monterey 12.0.1
 - Ethernet Intel I219-LM
 - Intel Dual Band Wireless-AC 8265 WiFi Adapter 
 
-# What's working
+### What's working
 - [x] Intel HD Graphics 620
 - [x] Audio Realtec Realtek ALC256
 - [x] Ethernet Intel I219-LM
@@ -26,10 +26,10 @@ Spoofed as a MacBookPro14,1, Current Running OS: macOS Monterey 12.0.1
 - [x] Sleep
 - [x] iMessage Services
 
-# What's not working
+### What's not working
 - AirDrop
 
-# Credits
+## Credits
 
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the kexts
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for the OpenCore guide
@@ -39,7 +39,7 @@ Spoofed as a MacBookPro14,1, Current Running OS: macOS Monterey 12.0.1
 - [Dell](https://www.dell.com) for the laptop
 - [Me](https://github.com/Noe-ali) for the config.plist
 
-# Installation
+## Installation
 
 1. Download the latest release of OpenCore,  ProperTree and GenSMBIOS
 2. Follow the [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) to create the USB installer
